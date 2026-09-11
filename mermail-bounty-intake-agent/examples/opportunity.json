@@ -1,0 +1,10 @@
+{
+  "title": "Build and Demo a Mermail Agent Skill",
+  "reward_max_usd": 250,
+  "p_complete": 0.9,
+  "p_win_given_complete": 0.12,
+  "cash_cost_usd": 0,
+  "human_minutes": 30,
+  "ai_hours": 5,
+  "confidence_haircut": 0.75
+}
